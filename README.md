@@ -12,4 +12,7 @@ React
 CSS
 JavaScript
 
+## Link for the demo
+https://anushaHegde08.github.io/basic-snake-game
+
 Enjoy the game!
