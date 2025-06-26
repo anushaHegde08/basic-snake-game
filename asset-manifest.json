@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basic-snake-game/static/css/main.1e2a80b7.css",
+    "main.js": "/basic-snake-game/static/js/main.1c699673.js",
+    "static/js/453.99a90daf.chunk.js": "/basic-snake-game/static/js/453.99a90daf.chunk.js",
+    "static/media/snake-image.jpg": "/basic-snake-game/static/media/snake-image.6e499bb0df29a745a769.jpg",
+    "index.html": "/basic-snake-game/index.html",
+    "main.1e2a80b7.css.map": "/basic-snake-game/static/css/main.1e2a80b7.css.map",
+    "main.1c699673.js.map": "/basic-snake-game/static/js/main.1c699673.js.map",
+    "453.99a90daf.chunk.js.map": "/basic-snake-game/static/js/453.99a90daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e2a80b7.css",
+    "static/js/main.1c699673.js"
+  ]
+}
